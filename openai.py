@@ -1,8 +1,9 @@
 import openai
 import sys
+import os
 
 ###----------[ LOGIN APIKEY OPEN AI ]---------- ###
-
+os.system("clear")
 fl=open("apikey.txt","r")
 apikey=fl.read()
 if(apikey==""):
