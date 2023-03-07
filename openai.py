@@ -17,7 +17,7 @@ else:
   print("MADE BY: FAUZI XD")
   print("FB : FAUZI")
   print("TEAM :Termux indonesia ")
-  print("CTRL + C TO EXIT")
+  print("CTRL + z TO STOP")
   print("-----------------------")
   while True:
     pertanyaan=input("[Masukan pertanyaan] ")
