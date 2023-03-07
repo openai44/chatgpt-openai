@@ -1,5 +1,7 @@
 # chatgpt-openai
 
+pip install openai
+
 git clone https://github.com/openai44/chatgpt-openai
 
 cd chatgpt-openai
